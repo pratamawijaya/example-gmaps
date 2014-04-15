@@ -21,7 +21,6 @@ public class MainActivity extends FragmentActivity implements
 		setContentView(R.layout.activity_main);
 		setupMapIfNeeded();
 	}
-
 	/**
 	 * initialize map
 	 */
@@ -37,7 +36,6 @@ public class MainActivity extends FragmentActivity implements
 			}
 		}
 	}
-
 	/**
 	 * Setup Map
 	 */
